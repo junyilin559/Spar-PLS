@@ -3,7 +3,7 @@ This repository includes the implementation of our work **"Sparsification Subsam
 
 ## Introduction
 A brief introduction about the folders and files:
-* `sec/`: the source file for different PLS methods;
+* `src/`: the source file for different PLS methods;
     * `computing.cpp`: Calculates probabilities and sampling functions.
     * `Spar-PLS.R`: Implementation of Spar-PLS.
     * `RandomPLS.R`: Implementation of row-sampling PLS.
