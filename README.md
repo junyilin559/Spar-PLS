@@ -38,3 +38,22 @@ For the real data example in Section 6,
 * you can run `WEC_time.R` to reproduce the results in Table 3;
 * you can run `WEC_full.R` to reproduce the results in Section C.1;
 * you can run `LEV_compare.R` to reproduce the results in Section C.3;
+
+## Citation
+
+If you found this repository useful, please cite the following.
+
+```bibtex
+@article{lin2026sparpls,
+      author = {Junyi Lin and Mengyu Li and Cheng Meng and Yongdao Zhou},
+      title = {Sparsification Subsampling for Partial Least Squares Regression},
+      journal = {Journal of Computational and Graphical Statistics},
+      volume = {0},
+      number = {ja},
+      pages = {1--30},
+      year = {2026},
+      publisher = {Taylor \& Francis},
+      doi = {10.1080/10618600.2026.2686429},
+      URL = {https://www.tandfonline.com/doi/abs/10.1080/10618600.2026.2686429},
+}
+```
